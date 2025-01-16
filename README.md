@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marcus! 
+<h1>Hi, I'm Marcus, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
@@ -13,7 +13,6 @@
 - [](https://www.youtube.com/)
 
 
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
