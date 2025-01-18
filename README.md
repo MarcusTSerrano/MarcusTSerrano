@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Implementing a Help Desk Ticketing System (osTicket) using Azure Virtual Machines </b>
+- <b>osTicket in Azure Virtual Machines </b>
   - [osTicket (Help Desk Ticketing System)](https://github.com/MarcusTSerrano/osTicket/tree/main)</b>
 
 - <b>Microsoft Azure</b>
@@ -19,3 +19,4 @@
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/marcustserrano/
+
