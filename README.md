@@ -4,7 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/MarcusTSerrano/ActiveDirectoryLab)
 
-<h2>📺 Certifications</h2>
+<h2>📜 Certifications</h2>
 
 - [Google It Support Professional](https://www.youtube.com/)
 
