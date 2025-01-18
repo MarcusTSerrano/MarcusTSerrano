@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>[osTicket (Help Desk Ticketing System)](https://github.com/MarcusTSerrano/osTicket/tree/main)</b>
+- <b>Implementing a Help Desk Ticketing System (osTicket) using Azure Virtual Machines </b>
+  - [osTicket (Help Desk Ticketing System)](https://github.com/MarcusTSerrano/osTicket/tree/main)</b>
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
