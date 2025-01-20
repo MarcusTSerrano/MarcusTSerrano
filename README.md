@@ -2,12 +2,18 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Active Directory within Azure VMs](https://github.com/MarcusTSerrano/Active-Directory-Project)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - 
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - 
+ 
+
+
 - <b>osTicket in Azure Virtual Machines </b>
   - [osTicket (Help Desk Ticketing System)](https://github.com/MarcusTSerrano/osTicket/tree/main)</b>
 
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 
 <h2>🤳Connect with me:</h2>
